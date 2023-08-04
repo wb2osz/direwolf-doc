@@ -18,6 +18,13 @@ These dive into more detail for specialized topics or typical usage scenarios.
     The APRS Protocol Reference 1.01 doesn’t describe how a digipeater should work.  As a result, we find many implementations that don’t behave exactly the same.   Newer implementations have found different ways to overcome weaknesses in the traditional TNCs.
 
 
+- [**Successful APRS IGate Operation**](Successful-APRS-IGate-Operation.pdf)  [ [*download*](../../../direwolf-doc/raw/master/doc/Successful-APRS-IGate-Operation.pdf) ]
+
+
+	Dire Wolf can serve as a gateway between the APRS radio network and APRS-IS servers on the Internet.
+
+    This explains how it all works, proper configuration, and troubleshooting.
+
 - [**Internal Packet Routing**](Internal-Packet-Routing.pdf)  [ [*download*](../../../direwolf-doc/raw/master/doc/Internal-Packet-Routing.pdf) ]
 
     Dire Wolf can support multiple audio channels which correspond to a physical audio interface, a virtual audio pipe, stdin (receive only), or a UDP port (receive only).  Each of these channels is configured to have its own modem (AFSK, GMSK, PSK) and framing type (AX.25, FX.25, IL2P, AIS, EAS SAME).
