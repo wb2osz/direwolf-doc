@@ -3,7 +3,7 @@
 
 Most of the Dire Wolf documentation is part of the source code repository [https://github.com/wb2osz/direwolf/tree/master/doc](https://github.com/wb2osz/direwolf/tree/master/doc) 
 
-The large number of documentation files and revisions are making the source code repository very large which means long download times.  The less essential documentation will be migrated here to slow down the source code repository growth.
+The large number of documentation files and revisions are making the source code repository very large which means long download times.  The more general purpose documentation will be migrated here to slow down the source code repository growth.
 
 
 ## Application Notes ##
