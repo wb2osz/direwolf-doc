@@ -11,6 +11,15 @@ The large number of documentation files and revisions are making the source code
 These dive into more detail for specialized topics or typical usage scenarios.
 
 
+- [**Lora APRS - VHF APRS Bridge**](APRS-LoRa-VHF-APRS-Bridge.pdf)  [ [*download*](../../../direwolf-doc/raw/main/doc/APRS-LoRa-VHF-APRS-Bridge.pdf) ]
+
+    LoRa is a radio technology that combines low rate long range with low power by using spread spectrum.  It is often used for Internet of Things and Meshtastic.    Devices are very inexpensive.  A typical board combines a LoRa radio, WiFi, Bluetooth, GPS receiver, USB port, battery charger, and OLED display.
+
+    Recently there have been many new LoRa APRS projects gaining great popularity in Europe.  They include trackers, digipeaters, and IGates.   
+
+    There is a large chasm between these new projects and the existing VHF APRS network. Here is a simple and very flexible approach to provide bridging between LoRa APRS and traditional APRS.   
+
+
 - [**APRS Digipeaters**](APRS-Digipeaters.pdf)  [ [*download*](../../../direwolf-doc/raw/master/doc/APRS-Digipeaters.pdf) ]
 
     AX.25 digital repeaters (digipeaters) use a “store and forward” approach.  A packet is received, examined, then possibly modified and retransmitted.   Usually it is retransmitted on the same radio channel but it is also possible for a multi-port digipeater to link multiple radio channels.  Packets received on one channel can be retransmitted on different channels.   
