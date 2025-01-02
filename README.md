@@ -13,7 +13,7 @@ These dive into more detail for specialized topics or typical usage scenarios.
 
 - [**Lora APRS - VHF APRS Bridge**](APRS-LoRa-VHF-APRS-Bridge.pdf)  [ [*download*](../../../direwolf-doc/raw/main/doc/APRS-LoRa-VHF-APRS-Bridge.pdf) ]
 
-    LoRa is a radio technology that combines low rate long range with low power by using spread spectrum.  It is often used for Internet of Things and Meshtastic.    Devices are very inexpensive.  A typical board combines a LoRa radio, WiFi, Bluetooth, GPS receiver, USB port, battery charger, and OLED display.
+    LoRa is a radio technology that combines low rate data and long range with low power by using spread spectrum.  It is often used for Internet of Things and Meshtastic.    Devices are very inexpensive.  A typical board combines a LoRa radio, WiFi, Bluetooth, GPS receiver, USB port, battery charger, and OLED display.
 
     Recently there have been many new LoRa APRS projects gaining great popularity in Europe.  They include trackers, digipeaters, and IGates.   
 
